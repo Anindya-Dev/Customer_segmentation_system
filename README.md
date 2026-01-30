@@ -1,4 +1,3 @@
-# SCT_ML_02
 # 🧠 Customer Segmentation using K-Means (Streamlit App)
 
 This Streamlit application allows you to perform **K-Means clustering** on retail customer data. It uses features like **Annual Income** and **Spending Score** to group customers into clusters and visualize them interactively.
@@ -36,8 +35,8 @@ You can use the public **Mall_Customers.csv** dataset as an example.
 ---
 ## Clone the repository:
 
-git clone https://github.com/Anindya-Dev/SCT_ML_02.git
-cd SCT_ML_02
+git clone https://github.com/Anindya-Dev/Customer_segmentation_system.git
+cd Customer_segmentation_system
 
 
 ## ▶️ How to Run
